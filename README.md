@@ -212,4 +212,8 @@ Agradecemos também aos membros do grupo pelo comprometimento, colaboração e d
 
 </div>
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 2cbbe1b (Add new prototype images for desktop application)
