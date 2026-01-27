@@ -10,6 +10,21 @@
 
 O Grupo 5 foi responsável por documentar e projetar um **sistema integrado de gestão** para a Hermes Calçados e Artigos Esportivos, uma loja fundada em 2015 em Sorocaba/SP que expandiu suas operações em 2024.
 
+## 📚 Estrutura do Repositório
+```
+Project-Engineering-Software-Docs/
+├── 📄 README.md
+└── 📁 docs/
+    ├── 📑 Engenharia_de_Software_Versao_Final.pdf
+    ├── 📁 prototipos/
+    │   ├── desktop/
+    │   ├── app-interno/
+    │   └── app-clientes/
+    └── 📁 diagramas/
+```
+
+---
+
 ### Desafio do Cliente
 
 A empresa enfrentava sérios problemas operacionais causados por processos manuais:
@@ -155,21 +170,6 @@ Funcionalidades: 10 telas responsivas
 ---
 
 
-
-## 📚 Estrutura do Repositório
-```
-Project-Engineering-Software-Docs/
-├── 📄 README.md
-└── 📁 docs/
-    ├── 📑 Engenharia_de_Software_Versao_Final.pdf
-    ├── 📁 prototipos/
-    │   ├── desktop/
-    │   ├── app-interno/
-    │   └── app-clientes/
-    └── 📁 diagramas/
-```
-
----
 
 
 ## 🏆 Agradecimentos
