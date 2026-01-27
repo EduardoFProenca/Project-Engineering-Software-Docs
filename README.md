@@ -107,7 +107,7 @@ Quando achávamos que tínhamos terminado, surgiam novos pontos de atenção. Is
 
 | Membro | Contribuições |
 |--------|---------------|
-| **Eduardo Ferreira Proença** | Telas desktop (Login, Inicial, Catálogo) + App cliente |
+| **Eduardo Ferreira Proença** | Telas desktop ( Programa Fidelidade , Inicial, Catálogo) + App cliente |
 | **Gabriel dos Reis Antunes** | Telas desktop (Usuários, Estoque) + App interno |
 | **José Carlos de Barros Junior** | Telas desktop (Vendas, Inventário) + App interno |
 | **Kauã Anthony Cardoso** | Telas desktop (Produtos) + App cliente |
@@ -154,44 +154,23 @@ Funcionalidades: 10 telas responsivas
 
 ---
 
-## 👥 Equipe de Desenvolvimento
 
-**Professor/Orientador:**
-- 👨‍🏫 Levi Rodrigues Munhoz
-
-**Grupo 5 - Integrantes:**
-- 👤 Eduardo Ferreira Proença 
-- 👤 Gabriel dos Reis Antunes 
-- 👤 José Carlos de Barros Junior
-- 👤 Kauã Anthony Cardoso 
-
----
 
 ## 📚 Estrutura do Repositório
 ```
-sistema-hermes-calcados/
+Project-Engineering-Software-Docs/
 ├── 📄 README.md
-├── 📁 docs/
-│   ├── 📑 Engenharia_de_Software_Versao_Final.pdf
-│   ├── 📁 prototipos/
-│   │   ├── desktop/
-│   │   ├── app-interno/
-│   │   └── app-clientes/
-│   └── 📁 diagramas/
-└── 📄 LICENSE
+└── 📁 docs/
+    ├── 📑 Engenharia_de_Software_Versao_Final.pdf
+    ├── 📁 prototipos/
+    │   ├── desktop/
+    │   ├── app-interno/
+    │   └── app-clientes/
+    └── 📁 diagramas/
 ```
 
 ---
 
-## 🎓 Informações Acadêmicas
-
-**Instituição:** FATEC - Faculdade de Tecnologia de São Paulo  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Disciplina:** Engenharia de Software I  
-**Semestre:** 1º/2025  
-**Fase:** 6 - Versão Final  
-
----
 
 ## 🏆 Agradecimentos
 
@@ -201,9 +180,26 @@ Agradecemos também aos membros do grupo pelo comprometimento, colaboração e d
 
 ---
 
-## 📄 Licença
 
-Este é um projeto acadêmico desenvolvido para fins educacionais.
+## 👥 Equipe de Desenvolvimento
+
+**Professor/Orientador:**
+- 👨‍🏫 Levi Rodrigues Munhoz
+
+**Grupo 5 - Integrantes:**
+
+- 👤 **Eduardo Ferreira Proença ( eu 👋🏻)**   
+  🔗 GitHub: [@EduardoFProenca](https://github.com/EduardoFProenca)
+
+- 👤 **Gabriel dos Reis Antunes**  
+  🔗 GitHub: [@GabrielReis97](https://github.com/GabrielReis97)
+
+- 👤 **José Carlos de Barros Junior**    
+  🔗 GitHub: [@JoseCBJ](https://github.com/JoseCBJ)
+
+- 👤 **Kauã Anthony Cardoso**   
+  🔗 GitHub: [@kauanzin222](https://github.com/kauanzin222)
+
 
 ---
 
@@ -215,3 +211,5 @@ Este é um projeto acadêmico desenvolvido para fins educacionais.
 ⭐ *Se este projeto foi útil para você, considere dar uma estrela!*
 
 </div>
+
+---
