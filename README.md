@@ -212,4 +212,8 @@ Agradecemos também aos membros do grupo pelo comprometimento, colaboração e d
 
 </div>
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> f79e6445791328b4f547d9fba29d39c6606df00c
