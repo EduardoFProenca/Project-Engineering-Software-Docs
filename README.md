@@ -18,7 +18,7 @@ Project-Engineering-Software-Docs/
     ├── 📑 Engenharia_de_Software_Versao_Final.pdf
     ├── 📁 prototipos/
     │   ├── desktop/
-    │   ├── app-interno/
+    │   ├── app-interno-estoquista/
     │   └── app-clientes/
     └── 📁 diagramas/
 ```
